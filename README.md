@@ -1,73 +1,56 @@
-# Welcome to your Lovable project
+# StudyHub – Student Notes Sharing Platform
 
-## Project info
+## 📌 Overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+StudyHub is a full-stack web application where students can browse, upload, and explore notes semester-wise, subject-wise, and topic-wise.
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+* Browse notes (Semester → Subject → Topic)
+* Upload notes (Flask handling)
+* Star rating system ⭐
+* Previous year question papers
+* Syllabus section
+* Login & Signup UI
+* Fully responsive design
 
-**Use Lovable**
+## 🛠 Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+* Frontend: HTML, CSS, JavaScript, Bootstrap,react
+* Backend: Python (Flask)
 
-Changes made via Lovable will be committed automatically to this repo.
+## ▶️ How to Run
 
-**Use your preferred IDE**
+1. Clone the repository
+2. Install dependencies:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+   ```
+   pip install -r requirements.txt
+   ```
+3.Run:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+python app.py
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
+   ```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📷 Screenshots
 
-**Use GitHub Codespaces**
+<img width="1914" height="958" alt="studyHUB01" src="https://github.com/user-attachments/assets/49e4a078-c210-4d2c-8c99-ec8a0fc049e6" />
+<img width="1920" height="997" alt="studyHUB02" src="https://github.com/user-attachments/assets/a36b5f81-79fa-4f31-93c0-a8bdc8c0d41b" />
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+<img width="1918" height="1003" alt="studyHUB03" src="https://github.com/user-attachments/assets/aed31717-2d40-44f8-9ec5-86fe83977f2c" />
 
-## What technologies are used for this project?
+<img width="1920" height="1001" alt="studyHUB04" src="https://github.com/user-attachments/assets/0420fe0b-3c84-43fe-8c24-6f1312d9eaec" />
 
-This project is built with:
+<img width="1910" height="997" alt="studyHUB05" src="https://github.com/user-attachments/assets/81674cd0-9133-4b75-a17e-e9c620906117" />
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+<img width="1915" height="999" alt="studyHUB06" src="https://github.com/user-attachments/assets/e0ae5fb9-b2bc-462d-9514-d61288ffceac" />
 
-## How can I deploy this project?
+<img width="1911" height="1004" alt="studyHUB07" src="https://github.com/user-attachments/assets/924555e3-365b-48ee-88b2-45548225be95" />
+<img width="1914" height="996" alt="studyhub08" src="https://github.com/user-attachments/assets/75001d03-3656-4f8e-8a63-bd9006314947" />
+<img width="1919" height="996" alt="studyHUB09" src="https://github.com/user-attachments/assets/66322b2a-dafe-4986-9906-84f43515acad" />
+<img width="1914" height="1003" alt="studyHUB10" src="https://github.com/user-attachments/assets/fe306746-5730-4dad-87f8-35e6b09348a2" />
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
