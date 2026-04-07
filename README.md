@@ -26,31 +26,28 @@ StudyHub is a full-stack web application where students can browse, upload, and 
 
    ```
    pip install -r requirements.txt
-   ```
-3.Run:
-
-python app.py
-
-
-npm run dev
+   
    ```
 
+---
+screenshots
 
-## 📷 Screenshots
+<img width="1914" height="958" alt="studyHUB01" src="https://github.com/user-attachments/assets/efc8edbb-e6c3-42f1-a244-69772318657c" />
+<img width="1920" height="997" alt="studyHUB02" src="https://github.com/user-attachments/assets/84c32ff1-2929-47f9-aecc-1b7437fe3756" />
+<img width="1918" height="1003" alt="studyHUB03" src="https://github.com/user-attachments/assets/047911a7-f8cd-42a1-9114-b4acd464a939" />
+<img width="1920" height="1001" alt="studyHUB04" src="https://github.com/user-attachments/assets/15be3534-ca87-4945-9d8b-bf051413162d" />
+<img width="1910" height="997" alt="studyHUB05" src="https://github.com/user-attachments/assets/bc082a3d-7d2d-4f27-b11a-b766707b64ce" />
+<img width="1915" height="999" alt="studyHUB06" src="https://github.com/user-attachments/assets/992be53c-aac8-42a5-8ff1-fe4d8535013c" />
+<img width="1911" height="1004" alt="studyHUB07" src="https://github.com/user-attachments/assets/6b529815-2994-4a1c-8517-f939ecdb5d8d" />
+<img width="1914" height="996" alt="studyhub08" src="https://github.com/user-attachments/assets/c6d862c7-b42d-48c9-8d68-1e2131c857d0" />
+<img width="1919" height="996" alt="studyHUB09" src="https://github.com/user-attachments/assets/51485833-0715-4b9c-aa8d-2a3dbf2047f0" />
+<img width="1914" height="1003" alt="studyHUB10" src="https://github.com/user-attachments/assets/897d9e58-e95e-419c-bce3-cb13dc3a54ed" />
 
-<img width="1914" height="958" alt="studyHUB01" src="https://github.com/user-attachments/assets/49e4a078-c210-4d2c-8c99-ec8a0fc049e6" />
-<img width="1920" height="997" alt="studyHUB02" src="https://github.com/user-attachments/assets/a36b5f81-79fa-4f31-93c0-a8bdc8c0d41b" />
 
-<img width="1918" height="1003" alt="studyHUB03" src="https://github.com/user-attachments/assets/aed31717-2d40-44f8-9ec5-86fe83977f2c" />
 
-<img width="1920" height="1001" alt="studyHUB04" src="https://github.com/user-attachments/assets/0420fe0b-3c84-43fe-8c24-6f1312d9eaec" />
 
-<img width="1910" height="997" alt="studyHUB05" src="https://github.com/user-attachments/assets/81674cd0-9133-4b75-a17e-e9c620906117" />
 
-<img width="1915" height="999" alt="studyHUB06" src="https://github.com/user-attachments/assets/e0ae5fb9-b2bc-462d-9514-d61288ffceac" />
 
-<img width="1911" height="1004" alt="studyHUB07" src="https://github.com/user-attachments/assets/924555e3-365b-48ee-88b2-45548225be95" />
-<img width="1914" height="996" alt="studyhub08" src="https://github.com/user-attachments/assets/75001d03-3656-4f8e-8a63-bd9006314947" />
-<img width="1919" height="996" alt="studyHUB09" src="https://github.com/user-attachments/assets/66322b2a-dafe-4986-9906-84f43515acad" />
-<img width="1914" height="1003" alt="studyHUB10" src="https://github.com/user-attachments/assets/fe306746-5730-4dad-87f8-35e6b09348a2" />
+
+
 
